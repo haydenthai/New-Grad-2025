@@ -35,8 +35,12 @@ def getLink(listing):
     if not listing["active"]:
         return "🔒"
     link = listing["url"]
-    return f'<a href="{link}"><img src="{LONG_APPLY_BUTTON}" width="118" alt="Apply"></a>'
- 
+    if "?" not in link:
+        link += "?utm_source=Simplify&ref=Simplify"
+    else:
+        link += "&utm_source=Simplify&ref=Simplify"
+    return f'<a href="{link}" target="_blank"><img src="{LONG_APPLY_BUTTON}" width="118" alt="Apply"></a>'
+
 
 def create_md_table(listings):
     table = ""
