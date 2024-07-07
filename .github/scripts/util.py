@@ -4,8 +4,7 @@ from datetime import date, datetime, timezone, timedelta
 import random
 import os
 
-# SIMPLIFY_BUTTON = "https://i.imgur.com/kvraaHg.png"
-SIMPLIFY_BUTTON = "https://i.imgur.com/MXdpmi0.png" # says apply
+
 SHORT_APPLY_BUTTON = "https://i.imgur.com/w6lyvuC.png"
 LONG_APPLY_BUTTON = "https://i.imgur.com/u1KNU8z.png"
 
