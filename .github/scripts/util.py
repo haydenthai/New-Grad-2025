@@ -4,10 +4,8 @@ from datetime import date, datetime, timezone, timedelta
 import random
 import os
 
-# SIMPLIFY_BUTTON = "https://i.imgur.com/kvraaHg.png"
-SIMPLIFY_BUTTON = "https://i.imgur.com/MXdpmi0.png" # says apply
+
 SHORT_APPLY_BUTTON = "https://i.imgur.com/w6lyvuC.png"
-SQUARE_SIMPLIFY_BUTTON = "https://i.imgur.com/aVnQdox.png"
 LONG_APPLY_BUTTON = "https://i.imgur.com/u1KNU8z.png"
 
 
@@ -41,8 +39,8 @@ def getLink(listing):
         link += "?utm_source=Simplify&ref=Simplify"
     else:
         link += "&utm_source=Simplify&ref=Simplify"
-    return f'<a href="{link}"><img src="{LONG_APPLY_BUTTON}" width="118" alt="Apply"></a>'
- 
+    return f'<a href="{link}" target="_blank"><img src="{LONG_APPLY_BUTTON}" width="118" alt="Apply"></a>'
+
 
 def create_md_table(listings):
     table = ""
