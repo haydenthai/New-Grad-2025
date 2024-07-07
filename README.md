@@ -2,8 +2,8 @@
 
 Use this repo to share and keep track of entry-level software, tech, CS, PM, quant jobs for 2024 & 2025 new graduates.
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/your-discord-link) **Join our Discord community!**  
-Connect with other job seekers, share resources, and get support by joining our Discord server! [Join here!](https://discord.gg/your-discord-link)
+  
+Connect with other job seekers, share resources, and get support by joining our community [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/your-discord-link) server!
 
 ---
 ## The List 🚴🏔
