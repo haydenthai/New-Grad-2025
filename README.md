@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Allstate** | Full-Stack Software Engineer | Remote | <a href="https://www.allstate.jobs/job/20643947/full-stack-software-engineer-remote-il?utm_source=Simplify&ref=Simplify" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 08 |
 | **Microsoft** | Software Engineer - OneDrive and SharePoint | Remote | <a href="https://jobs.careers.microsoft.com/global/en/job/1733678/Software-Engineer---OneDrive-and-SharePoint?utm_source=Simplify&ref=Simplify" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 08 |
 | **S&P Global** | Associate Platform Engineer, DevOps Support | Eastover, SC | <a href="https://careers.spglobal.com/jobs/304332?lang=en-us&utm_source=linkedin&utm_source=Simplify&ref=Simplify" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 08 |
 | **Ramp** | Software Engineer - Frontend | New York, NY | <a href="https://jobs.ashbyhq.com/ramp/0ae01d73-3f48-4722-9810-0c6c1940d7bd?utm_source=Simplify&ref=Simplify" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 07 |
