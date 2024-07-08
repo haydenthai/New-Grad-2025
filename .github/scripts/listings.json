@@ -4655,5 +4655,21 @@
         "date_posted": 1720360117,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720405721,
+        "url": "https://www.wayfair.com/careers/job/software-engineer-iii/7117686002?gh_src=&source=",
+        "company_name": "Wayfair",
+        "title": "Software Engineer",
+        "locations": [
+            "Boston, Massachusetts"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "sgtanvi",
+        "id": "0ee2e986-4cef-437e-bbca-24fa69956ec0",
+        "date_posted": 1720405721,
+        "company_url": "",
+        "is_visible": true
     }
 ]
