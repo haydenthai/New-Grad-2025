@@ -4719,5 +4719,25 @@
         "date_posted": 1720468530,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720468817,
+        "url": "https://www.capitalonecareers.com/job/mclean/business-analyst-associate-2025/31238/67304841584",
+        "company_name": "Capital One",
+        "title": "Business Analyst Associate",
+        "locations": [
+            "McLean, Virginia",
+            "Richmond, Virginia",
+            "Plano, Texas",
+            "New York, New York",
+            "Chicago, Illinois"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "haydenthai",
+        "id": "301b3fd1-d3f6-43bc-8af7-96cd6554957b",
+        "date_posted": 1720468817,
+        "company_url": "",
+        "is_visible": true
     }
 ]
