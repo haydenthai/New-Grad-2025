@@ -4671,5 +4671,21 @@
         "date_posted": 1720405721,
         "company_url": "",
         "is_visible": false
+    },
+    {
+        "date_updated": 1720406201,
+        "url": "https://www.linkedin.com/jobs/view/3969688134/",
+        "company_name": "S&P Global",
+        "title": "Associate Platform Engineer, DevOps Support",
+        "locations": [
+            "Eastover, SC"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "sgtanvi",
+        "id": "ffb746f7-e7a0-4183-ac9c-0814dbcfc274",
+        "date_posted": 1720406201,
+        "company_url": "",
+        "is_visible": true
     }
 ]
