@@ -4687,5 +4687,21 @@
         "date_posted": 1720406201,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720462788,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1733678/Software-Engineer---OneDrive-and-SharePoint",
+        "company_name": "Microsoft",
+        "title": "Software Engineer - OneDrive and SharePoint",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "sgtanvi",
+        "id": "dbd59c41-c140-4ecb-9ce3-bd372ba6b781",
+        "date_posted": 1720462788,
+        "company_url": "",
+        "is_visible": true
     }
 ]
