@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Citadel** | Software Engineer | Chicago,IL</br>Miami, FL</br>New York, NY | <a href="https://www.citadel.com/careers/details/software-engineer-2025-university-graduate-us/?utm_source=Simplify&ref=Simplify" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | **Adobe** | Machine Learning Engineer - Masters/PhD | San Jose, CA | <a href="https://careers.adobe.com/us/en/job/ADOBUSR146886EXTERNALENUS/Machine-Learning-Engineer?utm_source=Simplify&ref=Simplify" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | **Old Mission Capital** | Junior Quant Trader | Chicago, IL | <a href="https://www.oldmissioncapital.com/careers/?gh_jid=6009323003&utm_source=Simplify&ref=Simplify" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | **Old Mission Capital** | Junior Software Engineer | Chicago, IL | <a href="https://www.oldmissioncapital.com/careers/?gh_jid=6009326003&utm_source=Simplify&ref=Simplify" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |

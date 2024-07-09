@@ -4836,5 +4836,23 @@
         "date_posted": 1720517390,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720519558,
+        "url": "https://www.citadel.com/careers/details/software-engineer-2025-university-graduate-us/",
+        "company_name": "Citadel",
+        "title": "Software Engineer",
+        "locations": [
+            "Chicago,IL",
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "c5d49884-c0ce-4f0f-bb3b-32efc47d3b19",
+        "date_posted": 1720519558,
+        "company_url": "",
+        "is_visible": true
     }
 ]
