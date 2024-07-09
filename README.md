@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Optiver** | Graduate Software Engineer (2025 Start – Austin) | Austin, TX | <a href="https://optiver.com/working-at-optiver/career-opportunities/7498618002/?utm_source=Simplify&ref=Simplify" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | **Capital One** | Business Analyst Associate | <details><summary>**5 locations**</summary>McLean, Virginia</br>Richmond, Virginia</br>Plano, Texas</br>New York, New York</br>Chicago, Illinois</details> | <a href="https://www.capitalonecareers.com/job/mclean/business-analyst-associate-2025/31238/67304841584?utm_source=Simplify&ref=Simplify" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 08 |
 | **Allstate** | Full-Stack Software Engineer | Remote | <a href="https://www.allstate.jobs/job/20643947/full-stack-software-engineer-remote-il?utm_source=Simplify&ref=Simplify" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 08 |
 | **Microsoft** | Software Engineer - OneDrive and SharePoint | Remote | <a href="https://jobs.careers.microsoft.com/global/en/job/1733678/Software-Engineer---OneDrive-and-SharePoint?utm_source=Simplify&ref=Simplify" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 08 |
