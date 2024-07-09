@@ -4739,5 +4739,21 @@
         "date_posted": 1720468817,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720499020,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/7498618002/",
+        "company_name": "Optiver",
+        "title": "Graduate Software Engineer (2025 Start \u2013 Austin)",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "34b01811-fc00-4ca9-b911-b19259d0befa",
+        "date_posted": 1720499020,
+        "company_url": "",
+        "is_visible": true
     }
 ]
