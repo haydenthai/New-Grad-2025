@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **DRW** | Software Developer | Chicago, IL | <a href="https://boards.greenhouse.io/drweng/jobs/5889745?utm_source=Simplify&ref=Simplify" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | **Google** | User Experience Designer, Early Career | Mountain View, CA</br>San Francisco, CA | <a href="https://www.google.com/about/careers/applications/jobs/results/142022721218192070-user-experience-designer?utm_source=Simplify&ref=Simplify" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | **Optiver** | Graduate Software Engineer (2025 Start – Austin) | Austin, TX | <a href="https://optiver.com/working-at-optiver/career-opportunities/7498618002/?utm_source=Simplify&ref=Simplify" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | **Capital One** | Business Analyst Associate | <details><summary>**5 locations**</summary>McLean, Virginia</br>Richmond, Virginia</br>Plano, Texas</br>New York, New York</br>Chicago, Illinois</details> | <a href="https://www.capitalonecareers.com/job/mclean/business-analyst-associate-2025/31238/67304841584?utm_source=Simplify&ref=Simplify" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 08 |
