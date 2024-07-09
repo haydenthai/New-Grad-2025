@@ -4820,5 +4820,21 @@
         "date_posted": 1720512359,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720517390,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR146886EXTERNALENUS/Machine-Learning-Engineer",
+        "company_name": "Adobe",
+        "title": "Machine Learning Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "fb36e0ca-453f-411e-a002-904e90e23a69",
+        "date_posted": 1720517390,
+        "company_url": "",
+        "is_visible": true
     }
 ]
