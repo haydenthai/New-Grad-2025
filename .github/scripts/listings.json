@@ -4902,5 +4902,21 @@
         "date_posted": 1720603029,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720603515,
+        "url": "https://boards.greenhouse.io/spacex/jobs/7527170002?gh_jid=7527170002&gh_src=3c0864192",
+        "company_name": "SpaceX",
+        "title": "Software Engineer, Flight Software",
+        "locations": [
+            "Hawthorne, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "d7931b40-02c2-4da8-b061-103aeddc51c2",
+        "date_posted": 1720603515,
+        "company_url": "",
+        "is_visible": true
     }
 ]
