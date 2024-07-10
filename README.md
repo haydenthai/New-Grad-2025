@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **TikTok** | iOS Software Engineer | San Jose, CA | <a href="https://careers.tiktok.com/position/7374936054024161562/detail?spread=5MWH5CQ&utm_source=Simplify&ref=Simplify" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | **SpaceX** | Software Engineer, Flight Software | Hawthorne, CA | <a href="https://boards.greenhouse.io/spacex/jobs/7527170002?gh_jid=7527170002&gh_src=3c0864192&utm_source=Simplify&ref=Simplify" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | **Radley James** | Junior C++ Engineer | San Francisco, CA | <a href="https://radleyjames.com/jobs/5341-c-junior-c-engineer-san-francisco/?utm_source=Simplify&ref=Simplify" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | **OpenAI** | Software Engineer, Backend | San Francisco, CA | <a href="https://jobs.ashbyhq.com/openai/75420421-5a2a-4d99-8755-9eeff799de95?utm_source=Simplify&ref=Simplify" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
