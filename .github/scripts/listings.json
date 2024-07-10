@@ -4886,5 +4886,21 @@
         "date_posted": 1720580962,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720603029,
+        "url": "https://radleyjames.com/jobs/5341-c-junior-c-engineer-san-francisco/",
+        "company_name": "Radley James",
+        "title": "Junior C++ Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "168f4b9b-5255-4d8b-8c70-69a7d5aac2c8",
+        "date_posted": 1720603029,
+        "company_url": "",
+        "is_visible": true
     }
 ]
