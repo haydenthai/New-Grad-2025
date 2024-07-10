@@ -65,3 +65,12 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 [⬆️ Back to Top ⬆️](https://github.com/haydenthai/New-Grad-2025#the-list-)
+
+
+## We love our contributors ❤️❤️
+
+Contribute by submitting an [issue](https://github.com/haydenthai/New-Grad-2025/issues/new/choose)!
+
+<a href="https://github.com/haydenthai/New-Grad-2025/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=haydenthai/New-Grad-2025" />
+</a>
