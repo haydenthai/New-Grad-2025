@@ -4870,5 +4870,21 @@
         "date_posted": 1720580649,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720580962,
+        "url": "https://jobs.ashbyhq.com/openai/75420421-5a2a-4d99-8755-9eeff799de95",
+        "company_name": "OpenAI",
+        "title": "Software Engineer, Backend",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "ibrakhimus",
+        "id": "0140ff9a-bd58-4caa-8d43-bf79db0fa6b9",
+        "date_posted": 1720580962,
+        "company_url": "",
+        "is_visible": true
     }
 ]
