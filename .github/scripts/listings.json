@@ -4918,5 +4918,21 @@
         "date_posted": 1720603515,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720603738,
+        "url": "https://careers.tiktok.com/position/7374936054024161562/detail?spread=5MWH5CQ",
+        "company_name": "TikTok",
+        "title": "iOS Software Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "35436760-2d22-453a-8546-e0f791b40292",
+        "date_posted": 1720603738,
+        "company_url": "",
+        "is_visible": true
     }
 ]
