@@ -35,10 +35,6 @@ def getLink(listing):
     if not listing["active"]:
         return "🔒"
     link = listing["url"]
-    if "?" not in link:
-        link += "?utm_source=haydenthai&ref=haydenthai"
-    else:
-        link += "&utm_source=haydenthai&ref=haydenthai"
     return f'<a href="{link}" target="_blank"><img src="{LONG_APPLY_BUTTON}" width="118" alt="Apply"></a>'
 
 
@@ -59,7 +55,6 @@ def create_md_table(listings):
         isBeforeJuly18 = datetime.fromtimestamp(listing["date_posted"]) < datetime(2023, 7, 18, 0, 0, 0)
         datePosted = month if isBeforeJuly18 else dayMonth
         table += f"| **{company}** | {position} | {location} | {link} | {datePosted} |\n"
-        # table += f"| **{company}** | {location} | {position} | {link} | {status} | {datePosted} |\n"
     return table
 
 def filterListings(listings, earliest_date):
