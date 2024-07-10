@@ -36,9 +36,9 @@ def getLink(listing):
         return "🔒"
     link = listing["url"]
     if "?" not in link:
-        link += "?utm_source=Simplify&ref=Simplify"
+        link += "?utm_source=haydenthai&ref=haydenthai"
     else:
-        link += "&utm_source=Simplify&ref=Simplify"
+        link += "&utm_source=haydenthai&ref=haydenthai"
     return f'<a href="{link}" target="_blank"><img src="{LONG_APPLY_BUTTON}" width="118" alt="Apply"></a>'
 
 

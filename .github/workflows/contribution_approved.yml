@@ -39,6 +39,22 @@ jobs:
           git add README.md
           git diff-index --quiet HEAD || (git commit -a -m "${{ steps.python_script.outputs.commit_message }}" --allow-empty)
 
+      - name: Create a new branch
+        if: success()
+        run: |
+          BRANCH_NAME="issue-${{ github.event.issue.number }}"
+          git checkout -b $BRANCH_NAME
+
+      - name: Create a Pull Request
+        if: success()
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: main
+          head: ${{ github.ref_name }}
+          title: "Contribution Approved for Issue #${{ github.event.issue.number }}"
+          body: "This pull request is created automatically for approved issue #${{ github.event.issue.number }}."
+
       - name: push changes
         if: success()
         uses: ad-m/github-push-action@v0.6.0
