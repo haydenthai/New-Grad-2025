@@ -30,7 +30,7 @@ jobs:
         id: python_script_readme
         run: python .github/scripts/update_readmes.py
 
-      - name: commit files
+      - name: Commit files
         if: success()
         run: |
           git config --local user.email ${{ steps.python_script.outputs.commit_email }}
@@ -45,31 +45,31 @@ jobs:
           BRANCH_NAME="issue-${{ github.event.issue.number }}"
           git checkout -b $BRANCH_NAME
 
+      - name: Push changes to new branch
+        if: success()
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: $BRANCH_NAME
+
       - name: Create a Pull Request
         if: success()
         uses: peter-evans/create-pull-request@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           base: main
-          head: ${{ github.ref_name }}
+          branch: $BRANCH_NAME
           title: "Contribution Approved for Issue #${{ github.event.issue.number }}"
           body: "This pull request is created automatically for approved issue #${{ github.event.issue.number }}."
 
-      - name: push changes
-        if: success()
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: dev
-
       - name: Auto Close Issue
-        run: gh issue close --comment "Your contribution was accepted. Auto-closing issue" ${{ github.event.issue.number }}
         if: success()
+        run: gh issue close --comment "Your contribution was accepted. Auto-closing issue" ${{ github.event.issue.number }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Problem With Action
-        run: gh issue comment ${{ github.event.issue.number }} --body "There was an error with our github action. Error - ${{ steps.python_script.outputs.error_message }} ${{ steps.python_script_readme.outputs.error_message }}"
         if: failure()
+        run: gh issue comment ${{ github.event.issue.number }} --body "There was an error with our GitHub action. Error - ${{ steps.python_script.outputs.error_message }} ${{ steps.python_script_readme.outputs.error_message }}"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
