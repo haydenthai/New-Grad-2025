@@ -4421,5 +4421,22 @@
         "date_posted": 1720702417,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720705515,
+        "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
+        "company_name": "ElectronX",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "New York, NY",
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "c11a9a3b-f6b3-400c-8ba0-37b0cc9a39af",
+        "date_posted": 1720705515,
+        "company_url": "",
+        "is_visible": true
     }
 ]
