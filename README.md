@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Applied Materials** | 2024 Product Marketing - New College Grad Opportunity | Gloucester, MA | <a href="https://careers.appliedmaterials.com/careers/job/790293825926" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
 | **ElectronX** | New Grad: Software Engineer | New York, NY</br>Chicago, IL | <a href="https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
 | **SIG** | Network Engineer | Bala Cynwyd, PA | <a href="https://careers.sig.com/job/8423/Network-Engineer-New-Grad" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
 | **Lockheed Martin** | Software Engineer 🇺🇸 | Annapolis, MD | <a href="https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25037&siteid=5010&jobId=759270#jobDetails=759270_5010" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
