@@ -4503,5 +4503,21 @@
         "date_posted": 1720711474,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720712467,
+        "url": "https://mii.wd5.myworkdayjobs.com/en-US/MiTek/job/Chesterfield-MO-USA/Software-Engineer-I_R04892",
+        "company_name": "MiTek",
+        "title": "Software Engineer I",
+        "locations": [
+            "Chesterfield, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "65bf8876-e21d-4b5d-b7a1-7424c0b99467",
+        "date_posted": 1720712467,
+        "company_url": "",
+        "is_visible": true
     }
 ]
