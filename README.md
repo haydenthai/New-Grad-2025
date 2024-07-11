@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Jane Street** | Software Engineer | New York, NY | <a href="https://boards.greenhouse.io/janestreet/jobs/7108437002" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
 | **Jane Street** | Front End Software Engineer | New York, NY | <a href="https://boards.greenhouse.io/janestreet/jobs/6184529002" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
 | **Pure Storage** | Software Engineer Grad, Hyperscale | Santa Clara, CA | <a href="https://boards.greenhouse.io/purestorage/jobs/6104882" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
 | **Applied Materials** | 2024 Product Marketing - New College Grad Opportunity | Gloucester, MA | <a href="https://careers.appliedmaterials.com/careers/job/790293825926" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
