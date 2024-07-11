@@ -16,7 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **SIG** | Network Engineer | Bala Cynwyd (Philadelphia Area), Pennsylvania | <a href="https://careers.sig.com/job/8423/Network-Engineer-New-Grad" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
+| **SIG** | Network Engineer | Bala Cynwyd, PA | <a href="https://careers.sig.com/job/8423/Network-Engineer-New-Grad" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
 | **Lockheed Martin** | Entry Level Software Engineer - Clearance Required 🛂 | Annapolis, Maryland | <a href="https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25037&siteid=5010&jobId=759270#jobDetails=759270_5010" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | **TikTok** | iOS Software Engineer | San Jose, CA | <a href="https://careers.tiktok.com/position/7374936054024161562/detail?spread=5MWH5CQ" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | **SpaceX** | Software Engineer, Flight Software | Hawthorne, CA | <a href="https://boards.greenhouse.io/spacex/jobs/7527170002?gh_jid=7527170002&gh_src=3c0864192" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
