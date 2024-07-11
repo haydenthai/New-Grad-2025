@@ -4486,5 +4486,22 @@
         "date_posted": 1720708790,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720711474,
+        "url": "https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Jr-DevOps-Engineer_R385308?q=Jr.%20DevOps%20Engineer&redirect=/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Jr-DevOps-Engineer_R385308",
+        "company_name": "Comcast",
+        "title": "Jr. DevOps Engineer",
+        "locations": [
+            "Englewood, CO",
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "eb908cdb-f494-4412-9764-48154f4d4db7",
+        "date_posted": 1720711474,
+        "company_url": "",
+        "is_visible": true
     }
 ]
