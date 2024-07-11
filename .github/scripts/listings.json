@@ -1465,22 +1465,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Jane Street",
-        "id": "0481e8fa-bd18-44de-9877-20dac94847ac",
-        "title": "Software Engineer",
-        "active": true,
-        "date_updated": 1720707824,
-        "date_posted": 1706141305,
-        "url": "https://boards.greenhouse.io/janestreet/jobs/7108437002",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Xometry",
         "id": "ff38de98-cd48-4b87-8e78-8e59b0737c8d",
         "title": "Quoting Specialist",
