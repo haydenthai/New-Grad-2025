@@ -4551,5 +4551,33 @@
         "date_posted": 1720791158,
         "company_url": "",
         "is_visible": false
+    },
+    {
+        "date_updated": 1720819042,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/140166094567416518-early-career-software-engineer-aimachine-learning",
+        "company_name": "Google",
+        "title": "Software Engineer, AI/Machine Learning",
+        "locations": [
+            "Mountain View, CA",
+            "Austin, TX",
+            "Boulder, CO",
+            "Cambridge, MA",
+            "Kirkland, WA",
+            "Los Angeles, CA",
+            "New York, NY",
+            "Raleigh, NC",
+            "Durham, NC",
+            "San Bruno, CA",
+            "Seattle, WA",
+            "San Francisco, CA",
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "8fe1e3e3-aab9-4b19-b8ce-3aeb5c177dcb",
+        "date_posted": 1720819042,
+        "company_url": "",
+        "is_visible": true
     }
 ]
