@@ -4519,5 +4519,21 @@
         "date_posted": 1720712467,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720760261,
+        "url": "https://careers.homedepot.com/job/20649409/software-engineer-remote-remote/?source=11663",
+        "company_name": "The Home Depot",
+        "title": "Software Engineer",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "c5792fba-48f4-4fc2-baa0-7cd089b2a6be",
+        "date_posted": 1720760261,
+        "company_url": "",
+        "is_visible": true
     }
 ]
