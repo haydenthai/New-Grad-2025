@@ -4424,20 +4424,20 @@
         "is_visible": true
     },
     {
-        "date_updated": 1720706317,
+        "date_updated": 1720743844,
         "url": "https://careers.appliedmaterials.com/careers/job/790293825926",
         "company_name": "Applied Materials",
         "title": "2024 Product Marketing - New College Grad Opportunity",
         "locations": [
             "Gloucester, MA"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "haydenthai",
         "id": "f3943438-f9b8-4ddb-97ac-9a65fc43edd4",
         "date_posted": 1720706317,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1720706441,
