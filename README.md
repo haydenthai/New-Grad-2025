@@ -16,7 +16,6 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **Dolby** | New Grad Software Engineer Intern - (Fall 24) | San Francisco, CA | <a href="https://jobs.dolby.com/careers/job/23457032" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 12 |
 | **The Home Depot** | Software Engineer | Remote | <a href="https://careers.homedepot.com/job/20649409/software-engineer-remote-remote/?source=11663" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 12 |
 | **MiTek** | Software Engineer I | Chesterfield, MO | <a href="https://mii.wd5.myworkdayjobs.com/en-US/MiTek/job/Chesterfield-MO-USA/Software-Engineer-I_R04892" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
 | **Comcast** | Jr. DevOps Engineer | Englewood, CO</br>Philadelphia, PA | <a href="https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Jr-DevOps-Engineer_R385308?q=Jr.%20DevOps%20Engineer&redirect=/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Jr-DevOps-Engineer_R385308" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
