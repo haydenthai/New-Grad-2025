@@ -4535,5 +4535,21 @@
         "date_posted": 1720760261,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720791158,
+        "url": "https://jobs.dolby.com/careers/job/23457032",
+        "company_name": "Dolby",
+        "title": "New Grad Software Engineer Intern - (Fall 24)",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "97b373be-5760-4e18-968f-d866c65dcf96",
+        "date_posted": 1720791158,
+        "company_url": "",
+        "is_visible": true
     }
 ]
