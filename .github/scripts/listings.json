@@ -4579,5 +4579,21 @@
         "date_posted": 1720819042,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720902945,
+        "url": "https://aexp.eightfold.ai/careers/job/23584057",
+        "company_name": "American Express",
+        "title": "Software Engineer",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "f2d7639f-36bf-4e14-b1d8-dfaa8d0577ce",
+        "date_posted": 1720902945,
+        "company_url": "",
+        "is_visible": true
     }
 ]
