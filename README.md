@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Microsoft** | Software Engineer | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/share/1736578" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 13 |
 | **American Express** | Software Engineer | Phoenix, AZ | <a href="https://aexp.eightfold.ai/careers/job/23584057" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 13 |
 | **Google** | Software Engineer, AI/Machine Learning | <details><summary>**13 locations**</summary>Mountain View, CA</br>Austin, TX</br>Boulder, CO</br>Cambridge, MA</br>Kirkland, WA</br>Los Angeles, CA</br>New York, NY</br>Raleigh, NC</br>Durham, NC</br>San Bruno, CA</br>Seattle, WA</br>San Francisco, CA</br>Sunnyvale, CA</details> | <a href="https://www.google.com/about/careers/applications/jobs/results/140166094567416518-early-career-software-engineer-aimachine-learning" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 12 |
 | **MiTek** | Software Engineer I | Chesterfield, MO | <a href="https://mii.wd5.myworkdayjobs.com/en-US/MiTek/job/Chesterfield-MO-USA/Software-Engineer-I_R04892" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
