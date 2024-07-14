@@ -4631,5 +4631,21 @@
         "date_posted": 1720979812,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720979990,
+        "url": "https://careers-gdms.icims.com/jobs/63422/job",
+        "company_name": "General Dynamics",
+        "title": "Software Engineer",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "vanshb03",
+        "id": "342a297c-675e-4ea2-85cd-dfba2b4ddb18",
+        "date_posted": 1720979990,
+        "company_url": "",
+        "is_visible": true
     }
 ]
