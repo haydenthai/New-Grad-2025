@@ -4611,5 +4611,25 @@
         "date_posted": 1720907005,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720979812,
+        "url": "https://jobs.boeing.com/job/-/-/185/67481707328",
+        "company_name": "Boeing",
+        "title": "Software Developer",
+        "locations": [
+            "North Charleston, SC",
+            "Seattle, WA",
+            "Everett, WA",
+            "Kent, WA",
+            "Renton, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "cd65cdd7-c608-4252-bae4-1cd641909667",
+        "date_posted": 1720979812,
+        "company_url": "",
+        "is_visible": true
     }
 ]
