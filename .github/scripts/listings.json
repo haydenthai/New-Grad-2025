@@ -4647,5 +4647,21 @@
         "date_posted": 1720979990,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720980191,
+        "url": "https://careers.amd.com/careers-home/jobs/49996?lang=en-us",
+        "company_name": "AMD",
+        "title": "ML Compiler Software Development Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "c2698921-94e3-48d3-8ab7-f5859e68a84d",
+        "date_posted": 1720980191,
+        "company_url": "",
+        "is_visible": true
     }
 ]
