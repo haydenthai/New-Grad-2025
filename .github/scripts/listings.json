@@ -4663,5 +4663,21 @@
         "date_posted": 1720980191,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720980445,
+        "url": "https://www.tesla.com/careers/search/job/software-engineer-correctness-reliability-dojo-223336",
+        "company_name": "Tesla",
+        "title": "Software Engineer, Correctness & Reliability",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "9715d60e-04ee-4bde-9b67-4a7d81cf8ef7",
+        "date_posted": 1720980445,
+        "company_url": "",
+        "is_visible": true
     }
 ]
