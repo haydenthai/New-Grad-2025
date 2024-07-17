@@ -4679,5 +4679,21 @@
         "date_posted": 1720980445,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721219535,
+        "url": "https://akunacapital.com/job-details?gh_jid=6066182",
+        "company_name": "Akuna Capital",
+        "title": "Software Engineer (Entry-Level) - C++",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "3a0c916e-8b2c-4189-815e-5347e8e17e20",
+        "date_posted": 1721219535,
+        "company_url": "",
+        "is_visible": true
     }
 ]

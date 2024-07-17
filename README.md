@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Akuna Capital** | Software Engineer (Entry-Level) - C++ | Chicago, IL | <a href="https://akunacapital.com/job-details?gh_jid=6066182" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 17 |
 | **Tesla** | Software Engineer, Correctness & Reliability | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/software-engineer-correctness-reliability-dojo-223336" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
 | **AMD** | ML Compiler Software Development Engineer | San Jose, CA | <a href="https://careers.amd.com/careers-home/jobs/49996?lang=en-us" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
 | **General Dynamics** | Software Engineer 🇺🇸 | Manassas, VA | <a href="https://careers-gdms.icims.com/jobs/63422/job" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
