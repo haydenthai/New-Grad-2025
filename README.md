@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **IMC** | Graduate Software Engineer | Chicago, IL | <a href="https://jobs.lever.co/hihello/693f8844-c3ed-414f-9dc0-8f2abf6ec4fe/apply" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | **Akuna Capital** | Software Engineer (Entry-Level) - C++ | Chicago, IL | <a href="https://akunacapital.com/job-details?gh_jid=6066182" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 17 |
 | **Tesla** | Software Engineer, Correctness & Reliability | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/software-engineer-correctness-reliability-dojo-223336" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
 | **AMD** | ML Compiler Software Development Engineer | San Jose, CA | <a href="https://careers.amd.com/careers-home/jobs/49996?lang=en-us" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
