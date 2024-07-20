@@ -1850,20 +1850,20 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1719444276,
+        "date_updated": 1721495397,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1730183/Software-Engineer",
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "locations": [
             "Redmond, WA"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "reddoy",
         "id": "221a634f-b340-449b-bd5c-71bfce0130d2",
         "date_posted": 1719444276,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
