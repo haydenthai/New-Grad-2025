@@ -4711,5 +4711,21 @@
         "date_posted": 1721496144,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721526560,
+        "url": "https://boards.greenhouse.io/verkada/jobs/4401751007",
+        "company_name": "Verkada",
+        "title": "Embedded Software Engineer - University Graduate 2024",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "cc743ba1-0e23-4a70-a41f-fad353b675da",
+        "date_posted": 1721526560,
+        "company_url": "",
+        "is_visible": true
     }
 ]
