@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Passes** | Frontend Engineer | New York, NY | <a href="https://boards.greenhouse.io/passes/jobs/4035805008" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
 | **Verkada** | Embedded Software Engineer - University Graduate 2024 | San Mateo, CA | <a href="https://boards.greenhouse.io/verkada/jobs/4401751007" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
 | **IMC** | Graduate Software Engineer | Chicago, IL | <a href="https://boards.eu.greenhouse.io/imc/jobs/4347769101" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | **Akuna Capital** | Software Engineer (Entry-Level) - C++ | Chicago, IL | <a href="https://akunacapital.com/job-details?gh_jid=6066182" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 17 |
