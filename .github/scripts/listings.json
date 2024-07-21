@@ -4144,20 +4144,20 @@
         "is_visible": false
     },
     {
-        "date_updated": 1720468530,
+        "date_updated": 1721526814,
         "url": "https://www.allstate.jobs/job/20643947/full-stack-software-engineer-remote-il",
         "company_name": "Allstate",
         "title": "Full-Stack Software Engineer",
         "locations": [
             "Remote"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "sgtanvi",
         "id": "ee42b0a0-1f78-45ba-ba91-79dfd293152d",
         "date_posted": 1720468530,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1720468817,
