@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **NVIDIA** | Developer Technology Engineer, AI - New College Graduate 2024 (MS/PhD Only) | <details><summary>**6 locations**</summary>Santa Clara, CA</br>Austin, TX</br>Durham, NC</br>Redmond, WA</br>Salt Lake City, UT</br>Boulder, CO</details> | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Graduate-2024_JR1984452" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
 | **Passes** | Frontend Engineer | New York, NY | <a href="https://boards.greenhouse.io/passes/jobs/4035805008" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
 | **Verkada** | Embedded Software Engineer - University Graduate 2024 | San Mateo, CA | <a href="https://boards.greenhouse.io/verkada/jobs/4401751007" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
 | **IMC** | Graduate Software Engineer | Chicago, IL | <a href="https://boards.eu.greenhouse.io/imc/jobs/4347769101" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
