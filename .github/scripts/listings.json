@@ -4388,7 +4388,7 @@
         "id": "9170eb56-8ec9-4f0d-8ef2-af1492af5cd0",
         "date_posted": 1720637312,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1720703678,
@@ -4518,7 +4518,7 @@
         "id": "65bf8876-e21d-4b5d-b7a1-7424c0b99467",
         "date_posted": 1720712467,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1720828047,
@@ -4594,7 +4594,7 @@
         "id": "f2d7639f-36bf-4e14-b1d8-dfaa8d0577ce",
         "date_posted": 1720902945,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1721495645,
@@ -4630,7 +4630,7 @@
         "id": "cd65cdd7-c608-4252-bae4-1cd641909667",
         "date_posted": 1720979812,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1720979990,
@@ -4698,7 +4698,7 @@
     },
     {
         "date_updated": 1721496144,
-        "url": "https://jobs.lever.co/hihello/693f8844-c3ed-414f-9dc0-8f2abf6ec4fe/apply",
+        "url": "https://boards.eu.greenhouse.io/imc/jobs/4347769101",
         "company_name": "IMC",
         "title": "Graduate Software Engineer",
         "locations": [
