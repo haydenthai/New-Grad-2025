@@ -4844,5 +4844,21 @@
         "date_posted": 1721733837,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721734010,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/7498615002/",
+        "company_name": "Optiver",
+        "title": "Graduate Software Engineer (2025 Start \u2013 Chicago)",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "b3a84e93-c526-40cc-8743-afeb0ce2da27",
+        "date_posted": 1721734010,
+        "company_url": "",
+        "is_visible": true
     }
 ]
