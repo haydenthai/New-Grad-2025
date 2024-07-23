@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **TikTok** | Software Engineer Graduate (TikTok Short Video) - 2025 Start (Bachelors/Master) | Seattle, WA | <a href="https://careers.tiktok.com/position/7394314674919721266" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | **TikTok** | Software Engineer Graduate (TikTok Short Video) - 2025 Start (Bachelors/Master) | San Jose, CA | <a href="https://careers.tiktok.com/position/7394316025958828325/detail" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | **Axle Health** | Software Engineer (New Grad) | Los Angeles, CA | <a href="https://www.workatastartup.com/jobs/68040" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 22 |
 | **NVIDIA** | Developer Technology Engineer, AI - New College Graduate 2024 (MS/PhD Only) | <details><summary>**6 locations**</summary>Santa Clara, CA</br>Austin, TX</br>Durham, NC</br>Redmond, WA</br>Salt Lake City, UT</br>Boulder, CO</details> | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Graduate-2024_JR1984452" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |

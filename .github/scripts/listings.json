@@ -4796,5 +4796,21 @@
         "date_posted": 1721733145,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721733282,
+        "url": "https://careers.tiktok.com/position/7394314674919721266",
+        "company_name": "TikTok",
+        "title": "Software Engineer Graduate (TikTok Short Video) - 2025 Start (Bachelors/Master)",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "cbd9cd72-341e-456e-8168-ce70826d95a1",
+        "date_posted": 1721733282,
+        "company_url": "",
+        "is_visible": true
     }
 ]
