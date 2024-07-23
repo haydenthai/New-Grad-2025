@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Jerry](https://simplify.jobs/c/Jerry)** | New Graduate Software Engineer | Palo Alto, CA | <a href="https://jobs.ashbyhq.com/Jerry/1cdd1696-449d-4925-86e5-d09659e5f96c" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | **ByteDance** | Software Engineer Graduate (AML- Engine) - 2025 Start (BS/MS) | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7394555540905036058/detail" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | **TikTok** | Software Engineer Graduate (TikTok Short Video) - 2025 Start (Bachelors/Master) | Seattle, WA | <a href="https://careers.tiktok.com/position/7394314674919721266" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | **TikTok** | Software Engineer Graduate (TikTok Short Video) - 2025 Start (Bachelors/Master) | San Jose, CA | <a href="https://careers.tiktok.com/position/7394316025958828325/detail" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
