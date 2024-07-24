@@ -4876,5 +4876,21 @@
         "date_posted": 1721742767,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721845759,
+        "url": "https://careers.tiktok.com/position/7394958206025550089/detail",
+        "company_name": "Tiktok",
+        "title": "Machine Learning Engineer 2025 Start (TikTok Recommendation)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "DonkeyBoy001",
+        "id": "c6b6a796-1391-4df0-95fd-eb9b5bb17484",
+        "date_posted": 1721845759,
+        "company_url": "",
+        "is_visible": true
     }
 ]
