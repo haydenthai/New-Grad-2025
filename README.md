@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Tiktok** | Software Engineer Graduate (Intelligent Creation Mobile) - 2025 Start (BS/MS) | San Jose, CA | <a href="https://careers.tiktok.com/position/7394972975772027146/detail" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
 | **Tiktok** | Machine Learning Engineer 2025 Start (TikTok Recommendation) | San Jose, CA | <a href="https://careers.tiktok.com/position/7394958206025550089/detail" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | **Blue Origin** | Software Engineer Early Career - Verification 🇺🇸 | Seattle, WA | <a href="https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/Software-Engineer-Early-Career---Verification_R45390" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | **Optiver** | Graduate Software Engineer (2025 Start – Chicago) | Chicago, IL | <a href="https://optiver.com/working-at-optiver/career-opportunities/7498615002/" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
