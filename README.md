@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **TikTok** | Software Engineer Graduate (TikTok LIVE Foundation) - 2025 Start | San Jose, CA | <a href="https://careers.tiktok.com/position/7394970016695453990/detail" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
 | **Adobe** | 2025 University Graduate - Software Development Engineer | San Jose, CA | <a href="https://careers.adobe.com/us/en/job/R145890/2025-University-Graduate-Software-Development-Engineer" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
 | **Tiktok** | Software Engineer Graduate (Intelligent Creation Mobile) - 2025 Start (BS/MS) | San Jose, CA | <a href="https://careers.tiktok.com/position/7394972975772027146/detail" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
 | **Tiktok** | Machine Learning Engineer 2025 Start (TikTok Recommendation) | San Jose, CA | <a href="https://careers.tiktok.com/position/7394958206025550089/detail" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |

@@ -4924,5 +4924,21 @@
         "date_posted": 1721881026,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721886878,
+        "url": "https://careers.tiktok.com/position/7394970016695453990/detail",
+        "company_name": "TikTok",
+        "title": "Software Engineer Graduate (TikTok LIVE Foundation) - 2025 Start",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "7de9dead-378f-43cc-a3ce-1687f7333bcf",
+        "date_posted": 1721886878,
+        "company_url": "",
+        "is_visible": true
     }
 ]
