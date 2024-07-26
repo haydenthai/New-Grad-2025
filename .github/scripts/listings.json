@@ -4940,5 +4940,21 @@
         "date_posted": 1721886878,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722007018,
+        "url": "https://ats.rippling.com/medallion-careers/jobs/169e4b7b-cb27-4f5e-970b-9cc27e48f426",
+        "company_name": "Medallion",
+        "title": "Software Engineer, New Grad",
+        "locations": [
+            "Remote, US"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "e8b781a0-a2ca-4501-b015-f9b54398e088",
+        "date_posted": 1722007018,
+        "company_url": "",
+        "is_visible": true
     }
 ]
