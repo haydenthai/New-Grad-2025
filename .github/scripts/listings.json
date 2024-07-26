@@ -4956,5 +4956,21 @@
         "date_posted": 1722007018,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722009748,
+        "url": "https://jobs.apple.com/en-us/details/200557873/is-t-early-career-software-engineer-opportunities",
+        "company_name": "Apple",
+        "title": "IS&T Early Career Software Engineer Opportunities",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "a8159636-243d-46ba-9532-a3801d2283f0",
+        "date_posted": 1722009748,
+        "company_url": "",
+        "is_visible": true
     }
 ]
