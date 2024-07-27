@@ -4972,5 +4972,23 @@
         "date_posted": 1722009748,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722110312,
+        "url": "https://www.disneycareers.com/en/job/-/-/391/68004930112",
+        "company_name": "The Walt Disney Company",
+        "title": "Software Engineer I",
+        "locations": [
+            "New York, NY",
+            "Santa Monica, CA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "a2979e6b-7e34-4538-a0ae-7a55b6f8ef06",
+        "date_posted": 1722110312,
+        "company_url": "",
+        "is_visible": true
     }
 ]
