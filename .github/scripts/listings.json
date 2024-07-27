@@ -5006,5 +5006,21 @@
         "date_posted": 1722110501,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722110690,
+        "url": "https://navan.com/careers/openings/5382869?gh_jid=5382869",
+        "company_name": "Navan",
+        "title": "University 2024 Graduate - Software Engineer (Back-End)",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "bd362483-5fce-4c4c-a733-aace3cf76a8d",
+        "date_posted": 1722110690,
+        "company_url": "",
+        "is_visible": true
     }
 ]
