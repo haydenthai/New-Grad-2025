@@ -5038,5 +5038,21 @@
         "date_posted": 1722206370,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722206714,
+        "url": "https://careers.honeywell.com/us/en/job/HONEUSHRD905405EXTERNALENUS/Project-Engineer-I-Recent-Grad-Full-Time",
+        "company_name": "Honeywell",
+        "title": "Project Engineer I (Recent Grad/Full Time)",
+        "locations": [
+            "Fort Washington, Pennsylvania"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "haydenthai",
+        "id": "a102e3b3-de72-4ece-854e-2374a16923a8",
+        "date_posted": 1722206714,
+        "company_url": "",
+        "is_visible": true
     }
 ]
