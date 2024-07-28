@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **ByteDance** | Software Engineer Graduate (Applied Machine Learning - Engine) - 2025 Start (PhD) | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7376504348953970982/detail" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | **Navan** | University 2024 Graduate - Software Engineer (Back-End) | Palo Alto, CA | <a href="https://navan.com/careers/openings/5382869?gh_jid=5382869" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | **Twilio** | Software Engineer - New Graduate (2024 Recent Grads) | Remote, US | <a href="https://boards.greenhouse.io/twilio/jobs/6127332" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | **The Walt Disney Company** | Software Engineer I | New York, NY</br>Santa Monica, CA</br>Seattle, WA | <a href="https://www.disneycareers.com/en/job/-/-/391/68004930112" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |

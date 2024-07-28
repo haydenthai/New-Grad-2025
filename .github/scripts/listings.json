@@ -5022,5 +5022,21 @@
         "date_posted": 1722110690,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722206370,
+        "url": "https://jobs.bytedance.com/en/position/7376504348953970982/detail",
+        "company_name": "ByteDance",
+        "title": "Software Engineer Graduate (Applied Machine Learning - Engine) - 2025 Start (PhD)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "dd373de0-9a72-496b-985d-6884c28af79f",
+        "date_posted": 1722206370,
+        "company_url": "",
+        "is_visible": true
     }
 ]
