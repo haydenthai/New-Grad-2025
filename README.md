@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **TikTok** | Machine Learning Engineer - CV/NLP/Multimodal LLM (Trust and Safety) - 2025 Start (Master/Bachelor) | San Jose, CA | <a href="https://careers.tiktok.com/position/7395702392933927205/detail" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | **Honeywell** | Project Engineer I (Recent Grad/Full Time) 🇺🇸 | Fort Washington, Pennsylvania | <a href="https://careers.honeywell.com/us/en/job/HONEUSHRD905405EXTERNALENUS/Project-Engineer-I-Recent-Grad-Full-Time" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | **ByteDance** | Software Engineer Graduate (Applied Machine Learning - Engine) - 2025 Start (PhD) | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7376504348953970982/detail" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | **Navan** | University 2024 Graduate - Software Engineer (Back-End) | Palo Alto, CA | <a href="https://navan.com/careers/openings/5382869?gh_jid=5382869" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
