@@ -5054,5 +5054,21 @@
         "date_posted": 1722206714,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722242207,
+        "url": "https://careers.tiktok.com/position/7395702392933927205/detail",
+        "company_name": "TikTok",
+        "title": "Machine Learning Engineer - CV/NLP/Multimodal LLM (Trust and Safety) - 2025 Start (Master/Bachelor)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "4e7d766c-d1b9-49a8-ab3a-bd1f42cd7551",
+        "date_posted": 1722242207,
+        "company_url": "",
+        "is_visible": true
     }
 ]
