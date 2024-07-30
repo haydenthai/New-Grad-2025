@@ -1,6 +1,6 @@
 # 2025 New Grad Positions 🎓
 
-Use this repo to share and keep track of entry-level software, tech, CS, PM, quant jobs for 2024 & 2025 new graduates.
+Use this repo to share and keep track of entry-level software, tech, CS, PM, quant jobs for 2025 new graduates.
 
   
 Connect with other job seekers, share resources, and get support by joining our community [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/eEHrDcdZp7) server!
