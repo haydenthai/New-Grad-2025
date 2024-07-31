@@ -5102,5 +5102,21 @@
         "date_posted": 1722383259,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722447394,
+        "url": "https://jobs.ashbyhq.com/ramp/12747eb1-e545-478d-b07c-f27f4a88cc12?departmentId=e9877d64-61b1-4b37-8518-65af0431cd09",
+        "company_name": "Ramp",
+        "title": "New Grad 2025: Software Engineer - Frontend",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "74c4e594-bb30-4e78-999b-de99c2f73165",
+        "date_posted": 1722447394,
+        "company_url": "",
+        "is_visible": true
     }
 ]

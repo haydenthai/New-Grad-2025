@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Ramp** | New Grad 2025: Software Engineer - Frontend | New York, NY | <a href="https://jobs.ashbyhq.com/ramp/12747eb1-e545-478d-b07c-f27f4a88cc12?departmentId=e9877d64-61b1-4b37-8518-65af0431cd09" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | **TikTok** | Software Engineer Graduate - (Experimentation and Evaluation Graduate)- 2025 Start (BS/MS) | San Jose, CA | <a href="https://careers.tiktok.com/position/7397237825634699557/detail?spread=5MWH5CQ" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | **ByteDance** | Mobile Software Engineer Graduate (Global E-commerce-US) - 2025 Start (BS/MS) | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7396945647146076453/detail?spread=BSPP2KS" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | **TikTok** | Machine Learning Engineer - CV/NLP/Multimodal LLM (Trust and Safety) - 2025 Start (Master/Bachelor) | San Jose, CA | <a href="https://careers.tiktok.com/position/7395702392933927205/detail" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
