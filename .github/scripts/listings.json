@@ -5134,5 +5134,21 @@
         "date_posted": 1722456815,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722485520,
+        "url": "https://jobs.jobvite.com/careers/confluent/job/orVbufwL/apply",
+        "company_name": "Confluent",
+        "title": "2025 Software Engineer",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "9c632751-64f1-4381-a843-f35a95eb441b",
+        "date_posted": 1722485520,
+        "company_url": "",
+        "is_visible": true
     }
 ]
