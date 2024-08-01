@@ -5166,5 +5166,21 @@
         "date_posted": 1722527074,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722527174,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Entry-Level-Application-Engineer---2025-Start-Date_162144-1",
+        "company_name": "Vanguard",
+        "title": "Entry Level Application Engineer - 2025 Start Date",
+        "locations": [
+            "Malvern, PA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "889d8187-9c6e-4c07-878f-6f116e87a735",
+        "date_posted": 1722527174,
+        "company_url": "",
+        "is_visible": true
     }
 ]
