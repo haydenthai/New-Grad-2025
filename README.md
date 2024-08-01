@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **TikTok** | Data Engineer Graduate (Data Platform) - 2025 Start (BS/MS) | San Jose, CA | <a href="https://careers.tiktok.com/position/7397891573751499018/detail?spread=5MWH5CQ" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
 | **TikTok** | Backend Software Engineer Graduate (TikTok Eng - Backend Online Infra Team) - 2025 Start (BS/MS) | San Jose, CA | <a href="https://careers.tiktok.com/position/7397916727277095195/detail?spread=5MWH5CQ" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
 | **Vanguard** | Entry Level Application Engineer - 2025 Start Date | Malvern, PA | <a href="https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Entry-Level-Application-Engineer---2025-Start-Date_162144-1" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
 | **Vanguard** | Entry Level Application Engineer - 2025 Start Date | Charlotte, NC | <a href="https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer---2025-Start-Date_162145-1" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
