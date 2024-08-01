@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Confluent** | 2025 Software Engineer | Austin, TX | <a href="https://jobs.jobvite.com/careers/confluent/job/orVbufwL/apply" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
 | **Ramp** | New Grad 2025: Software Engineer - Backend | New York, NY | <a href="https://jobs.ashbyhq.com/ramp/29663a4b-c457-4a38-bbdf-069f189b20eb?departmentId=e9877d64-61b1-4b37-8518-65af0431cd09" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | **Ramp** | New Grad 2025: Software Engineer - Frontend | New York, NY | <a href="https://jobs.ashbyhq.com/ramp/12747eb1-e545-478d-b07c-f27f4a88cc12?departmentId=e9877d64-61b1-4b37-8518-65af0431cd09" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | **TikTok** | Software Engineer Graduate - (Experimentation and Evaluation Graduate)- 2025 Start (BS/MS) | San Jose, CA | <a href="https://careers.tiktok.com/position/7397237825634699557/detail?spread=5MWH5CQ" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
