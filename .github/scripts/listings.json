@@ -5214,5 +5214,21 @@
         "date_posted": 1722528641,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722528744,
+        "url": "https://boards.greenhouse.io/sentry/jobs/6145165",
+        "company_name": "Sentry",
+        "title": "Software Engineer, New Grad (2025)",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "91c01966-c5b4-4f27-ac05-04a48b9898fd",
+        "date_posted": 1722528744,
+        "company_url": "",
+        "is_visible": true
     }
 ]
