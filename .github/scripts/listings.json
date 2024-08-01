@@ -5150,5 +5150,21 @@
         "date_posted": 1722485520,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722527074,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer---2025-Start-Date_162145-1",
+        "company_name": "Vanguard",
+        "title": "Entry Level Application Engineer - 2025 Start Date",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "6ffb44cb-b601-4fec-b039-6665488bbdd6",
+        "date_posted": 1722527074,
+        "company_url": "",
+        "is_visible": true
     }
 ]
