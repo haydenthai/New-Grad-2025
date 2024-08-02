@@ -5230,5 +5230,28 @@
         "date_posted": 1722528744,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722619720,
+        "url": "https://jobs.jnj.com/en/jobs/2406197155w/class-of-2025-technology-leadership-development-program-tldp-full-time/",
+        "company_name": "Johnson & Johnson",
+        "title": "Class of 2025 Technology Leadership Development Program (TLDP) \u2013 Full Time",
+        "locations": [
+            "New Brunswick, NJ",
+            "Jacksonville, FL",
+            "Raritan, NJ",
+            "Spring House, PA",
+            "Horsham, PA",
+            "Titusville, NJ",
+            "Providence, RI",
+            "Fort Washington, PA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "bbf999f9-0852-44ce-bebe-e3da59983e38",
+        "date_posted": 1722619720,
+        "company_url": "",
+        "is_visible": true
     }
 ]
