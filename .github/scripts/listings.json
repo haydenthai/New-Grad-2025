@@ -5301,5 +5301,21 @@
         "date_posted": 1722621407,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722621685,
+        "url": "https://www.goldmansachs.com/careers/students/programs-and-internships/americas/2025-new-analyst-program",
+        "company_name": "Goldman Sachs",
+        "title": "2025 New Analyst Program",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "d9404856-7792-4219-b5ea-85ffa9f1c648",
+        "date_posted": 1722621685,
+        "company_url": "",
+        "is_visible": true
     }
 ]
