@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Five Rings** | Campus Full Time 2025 - Quantitative Trader | New York, NY | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4090061008" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
 | **Five Rings** | Campus Full Time 2025 - Quantitative Trader - Boca Raton | Boca Raton, FL | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4090119008" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
 | **Five Rings** | Campus Full Time 2025 - Software Developer - New York | New York, NY | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4090994008" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
 | **Johnson & Johnson** | Class of 2025 Technology Leadership Development Program (TLDP) – Full Time | <details><summary>**8 locations**</summary>New Brunswick, NJ</br>Jacksonville, FL</br>Raritan, NJ</br>Spring House, PA</br>Horsham, PA</br>Titusville, NJ</br>Providence, RI</br>Fort Washington, PA</details> | <a href="https://jobs.jnj.com/en/jobs/2406197155w/class-of-2025-technology-leadership-development-program-tldp-full-time/" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |

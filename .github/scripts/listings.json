@@ -5285,5 +5285,21 @@
         "date_posted": 1722620612,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722621407,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4090061008",
+        "company_name": "Five Rings",
+        "title": "Campus Full Time 2025 - Quantitative Trader",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "f18890e9-f62f-41d3-b279-7ae9aaa2d2fd",
+        "date_posted": 1722621407,
+        "company_url": "",
+        "is_visible": true
     }
 ]
