@@ -5269,5 +5269,21 @@
         "date_posted": 1722619897,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722620612,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4090119008",
+        "company_name": "Five Rings",
+        "title": "Campus Full Time 2025 - Quantitative Trader - Boca Raton",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "9a563af0-26be-4f55-8b24-5d2c9af90a8c",
+        "date_posted": 1722620612,
+        "company_url": "",
+        "is_visible": true
     }
 ]
