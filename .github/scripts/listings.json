@@ -5317,5 +5317,21 @@
         "date_posted": 1722621685,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722621981,
+        "url": "https://job-boards.greenhouse.io/mw-tech-grad/jobs/7499717002",
+        "company_name": "Marshall Wace",
+        "title": "Technology Graduate Scheme 2025 - New York",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "061d8a71-5c3b-45b6-8e47-15548d8aaa1f",
+        "date_posted": 1722621981,
+        "company_url": "",
+        "is_visible": true
     }
 ]
