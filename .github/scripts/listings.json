@@ -5253,5 +5253,21 @@
         "date_posted": 1722619720,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722619897,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4090994008",
+        "company_name": "Five Rings",
+        "title": "Campus Full Time 2025 - Software Developer - New York",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "f365ba64-33b8-45e9-bb09-d433f9e96dfc",
+        "date_posted": 1722619897,
+        "company_url": "",
+        "is_visible": true
     }
 ]
