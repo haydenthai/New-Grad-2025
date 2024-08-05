@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Northrop Grumman** | 2025 Entry Level Opportunities 🇺🇸 | Falls Church, Virginia | <a href="https://www.northropgrumman.com/jobs/Engineering/General/United-States-of-America/Virginia/Falls-Church/R10165009/2025-entry-level-opportunities" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
 | **Marshall Wace** | Technology Graduate Scheme 2025 - New York | New York, NY | <a href="https://job-boards.greenhouse.io/mw-tech-grad/jobs/7499717002" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
 | **Goldman Sachs** | 2025 New Analyst Program | United States | <a href="https://www.goldmansachs.com/careers/students/programs-and-internships/americas/2025-new-analyst-program" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
 | **Five Rings** | Campus Full Time 2025 - Quantitative Trader | New York, NY | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4090061008" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |

@@ -5333,5 +5333,21 @@
         "date_posted": 1722621981,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722827421,
+        "url": "https://www.northropgrumman.com/jobs/Engineering/General/United-States-of-America/Virginia/Falls-Church/R10165009/2025-entry-level-opportunities",
+        "company_name": "Northrop Grumman",
+        "title": "2025 Entry Level Opportunities",
+        "locations": [
+            "Falls Church, Virginia"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "haydenthai",
+        "id": "da2ed10c-3c9b-4a3b-bb2c-9a843c95724f",
+        "date_posted": 1722827421,
+        "company_url": "",
+        "is_visible": true
     }
 ]
