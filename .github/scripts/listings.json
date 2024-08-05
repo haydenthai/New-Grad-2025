@@ -5384,5 +5384,21 @@
         "date_posted": 1722892474,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722895045,
+        "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-distributed-data-systems-2025-start-6865704002",
+        "company_name": "Databricks",
+        "title": "Software Engineer - New Grad, Distributed Data Systems (2025 Start)",
+        "locations": [
+            "Mountain View, California"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "777cfb24-5d91-486a-afc0-544e92e6a4fd",
+        "date_posted": 1722895045,
+        "company_url": "",
+        "is_visible": true
     }
 ]
