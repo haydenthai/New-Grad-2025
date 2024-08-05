@@ -5400,5 +5400,21 @@
         "date_posted": 1722895045,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722895218,
+        "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-2025-start-6866542002",
+        "company_name": "Databricks",
+        "title": "Software Engineer - New Grad (2025 Start)",
+        "locations": [
+            "Bellevue, Washington"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "f839c425-bf42-4122-88c9-ff5e5ea9c529",
+        "date_posted": 1722895218,
+        "company_url": "",
+        "is_visible": true
     }
 ]
