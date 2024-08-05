@@ -5368,5 +5368,21 @@
         "date_posted": 1722885786,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722892474,
+        "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-distributed-data-systems-2025-start-6866556002",
+        "company_name": "Databricks",
+        "title": "Software Engineer - New Grad, Distributed Data Systems (2025 Start)",
+        "locations": [
+            "Bellevue, Washington"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "bb3f8e1c-decb-4402-ad21-0a3d5f8ee16e",
+        "date_posted": 1722892474,
+        "company_url": "",
+        "is_visible": true
     }
 ]
