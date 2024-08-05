@@ -5349,5 +5349,24 @@
         "date_posted": 1722827421,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722885786,
+        "url": "https://www.capitalonecareers.com/job/mclean/capital-one-developer-academy-associate-2025/31238/68391444896",
+        "company_name": "Capital One",
+        "title": "Capital One Developer Academy Associate - 2025 (Non-CS Majors)",
+        "locations": [
+            "McLean, VA",
+            "Richmond, VA",
+            "New York, NY",
+            "Plano, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "a1213bf8-86c1-499b-9896-63a4f75278e5",
+        "date_posted": 1722885786,
+        "company_url": "",
+        "is_visible": true
     }
 ]
