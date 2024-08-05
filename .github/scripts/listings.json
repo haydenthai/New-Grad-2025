@@ -5416,5 +5416,21 @@
         "date_posted": 1722895218,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722895312,
+        "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-2025-start-6865698002",
+        "company_name": "Databricks",
+        "title": "Software Engineer - New Grad (2025 Start)",
+        "locations": [
+            "Mountain View, California"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "3191d803-8842-40c6-9037-dd0a4c8f4de4",
+        "date_posted": 1722895312,
+        "company_url": "",
+        "is_visible": true
     }
 ]
