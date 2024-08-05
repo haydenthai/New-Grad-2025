@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Databricks** | Software Engineer - New Grad, Distributed Data Systems (2025 Start) | Bellevue, Washington | <a href="https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-distributed-data-systems-2025-start-6866556002" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
 | **Capital One** | Capital One Developer Academy Associate - 2025 (Non-CS Majors) 🛂 | <details><summary>**4 locations**</summary>McLean, VA</br>Richmond, VA</br>New York, NY</br>Plano, TX</details> | <a href="https://www.capitalonecareers.com/job/mclean/capital-one-developer-academy-associate-2025/31238/68391444896" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
 | **Northrop Grumman** | 2025 Entry Level Opportunities 🇺🇸 | Falls Church, Virginia | <a href="https://www.northropgrumman.com/jobs/Engineering/General/United-States-of-America/Virginia/Falls-Church/R10165009/2025-entry-level-opportunities" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
 | **Marshall Wace** | Technology Graduate Scheme 2025 - New York | New York, NY | <a href="https://job-boards.greenhouse.io/mw-tech-grad/jobs/7499717002" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
