@@ -5432,5 +5432,21 @@
         "date_posted": 1722895312,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722968042,
+        "url": "https://careers.roblox.com/jobs/6086753",
+        "company_name": "Roblox",
+        "title": "[2025] Software Engineer - New Graduate",
+        "locations": [
+            "San Matteo, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "5591a3b1-0591-4587-bf28-e13048c45085",
+        "date_posted": 1722968042,
+        "company_url": "",
+        "is_visible": true
     }
 ]
