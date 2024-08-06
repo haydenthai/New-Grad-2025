@@ -16,7 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **Roblox** | [2025] Software Engineer - New Graduate | San Matteo, CA | <a href="https://careers.roblox.com/jobs/6086753" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
+| **Roblox** | [2025] Software Engineer - New Graduate 🛂 | San Matteo, CA | <a href="https://careers.roblox.com/jobs/6086753" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | **Databricks** | Software Engineer - New Grad (2025 Start) | Mountain View, California | <a href="https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-2025-start-6865698002" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
 | **Databricks** | Software Engineer - New Grad (2025 Start) | Bellevue, Washington | <a href="https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-2025-start-6866542002" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
 | **Databricks** | Software Engineer - New Grad, Distributed Data Systems (2025 Start) | Mountain View, California | <a href="https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-distributed-data-systems-2025-start-6865704002" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
