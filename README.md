@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **ByteDance** | Machine Learning Engineer Graduate (AML Algorithm) - 2025 Start (BS/MS) | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7399738686366042377/detail?spread=BSPP2KS" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | **Seacorp** | New Engineering Graduates 2025 🇺🇸 | Middletown, RI | <a href="https://seacorp.csod.com/ux/ats/careersite/5/home/requisition/1539" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | **Roblox** | [2025] Software Engineer - New Graduate 🛂 | San Matteo, CA | <a href="https://careers.roblox.com/jobs/6086753" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | **Databricks** | Software Engineer - New Grad (2025 Start) | Mountain View, California | <a href="https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-2025-start-6865698002" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
