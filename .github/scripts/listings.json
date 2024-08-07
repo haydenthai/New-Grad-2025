@@ -5448,5 +5448,21 @@
         "date_posted": 1722968042,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723049226,
+        "url": "https://seacorp.csod.com/ux/ats/careersite/5/home/requisition/1539",
+        "company_name": "Seacorp",
+        "title": "New Engineering Graduates 2025",
+        "locations": [
+            "Middletown, RI"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "haydenthai",
+        "id": "eaf39037-56fb-4753-9653-41d159cf0c90",
+        "date_posted": 1723049226,
+        "company_url": "",
+        "is_visible": true
     }
 ]
