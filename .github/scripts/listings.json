@@ -5532,5 +5532,32 @@
         "date_posted": 1723149331,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723150176,
+        "url": "https://careers.bcg.com/job/BCG1US36468EXTERNALENUS/AI-Software-Engineer-Campus-United-States-BCG-X",
+        "company_name": "BCG",
+        "title": "AI Software Engineer (Masters/PhD only)",
+        "locations": [
+            "Boston, MA",
+            "Los Angeles, CA",
+            "Seattle, WA",
+            "San Francisco, CA",
+            "Manhattan Beach, CA",
+            "Dallas, TX",
+            "Miami, FL",
+            "Brooklyn, NY",
+            "New York, NY",
+            "Pittsburgh, PA",
+            "Washington, DC",
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "39c0f0b9-22d5-4ef2-a47a-70603fb722ad",
+        "date_posted": 1723150176,
+        "company_url": "",
+        "is_visible": true
     }
 ]
