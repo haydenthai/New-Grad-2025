@@ -5496,5 +5496,21 @@
         "date_posted": 1723049597,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723078085,
+        "url": "https://www.linkedin.com/jobs/view/3995797438/",
+        "company_name": "RVO Health",
+        "title": "2025 Early Career Program: Software Engineering",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "ec83b1eb-c20d-4daf-830a-123a922f22d6",
+        "date_posted": 1723078085,
+        "company_url": "",
+        "is_visible": true
     }
 ]

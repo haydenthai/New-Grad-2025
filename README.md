@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **RVO Health** | 2025 Early Career Program: Software Engineering 🛂 | Charlotte, NC | <a href="https://www.linkedin.com/jobs/view/3995797438/" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
 | **ByteDance** | Algorithm Engineer Graduate（IT-US)- 2025 Start (BS/MS) | San Jose, CA | <a href="https://Algorithm Engineer Graduate（IT-US)- 2025 Start (BS/MS)" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | **ByteDance** | Machine Learning Engineer Graduate (AML Algorithm) - 2025 Start (BS/MS) | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7399738686366042377/detail?spread=BSPP2KS" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | **Seacorp** | New Engineering Graduates 2025 🇺🇸 | Middletown, RI | <a href="https://seacorp.csod.com/ux/ats/careersite/5/home/requisition/1539" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
