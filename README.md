@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Wells Fargo** | 2025 Analytics and Data Development Program – Early Careers 🛂 | <details><summary>**5 locations**</summary>Charlotte, NC</br>Chandler, AZ</br>Dallas, TX</br>Minneapolis, MN</br>West Des Moines, IA</details> | <a href="https://www.wellsfargojobs.com/en/jobs/r-389141/2025-analytics-and-data-development-program-early-careers/" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
 | **RVO Health** | 2025 Early Career Program: Software Engineering 🛂 | Charlotte, NC | <a href="https://www.linkedin.com/jobs/view/3995797438/" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
 | **ByteDance** | Algorithm Engineer Graduate（IT-US)- 2025 Start (BS/MS) | San Jose, CA | <a href="https://Algorithm Engineer Graduate（IT-US)- 2025 Start (BS/MS)" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | **ByteDance** | Machine Learning Engineer Graduate (AML Algorithm) - 2025 Start (BS/MS) | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7399738686366042377/detail?spread=BSPP2KS" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
