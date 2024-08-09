@@ -5559,5 +5559,21 @@
         "date_posted": 1723150176,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723231261,
+        "url": "https://jobs.lever.co/belvederetrading/f994033f-80f7-4f1d-afdf-a0ada8ed9a8b/apply",
+        "company_name": "Belvedere",
+        "title": "Software Engineer - Entry Level 2025",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "c5bcd5db-3084-406f-b400-827119f01b6b",
+        "date_posted": 1723231261,
+        "company_url": "",
+        "is_visible": true
     }
 ]
