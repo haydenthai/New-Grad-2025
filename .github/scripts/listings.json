@@ -5575,5 +5575,21 @@
         "date_posted": 1723231261,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723250881,
+        "url": "https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-4a4032eced60/candidate/so/pm/1/pl/1/opp/8161-2025-Full-Time-Analyst-Program-AMERS/en-GB",
+        "company_name": "Blackrock",
+        "title": "2025 Full-Time Analyst Program - AMERS",
+        "locations": [
+            "Americas"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "48f08089-ca71-4997-a153-59d0db663345",
+        "date_posted": 1723250881,
+        "company_url": "",
+        "is_visible": true
     }
 ]
