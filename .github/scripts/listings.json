@@ -5591,5 +5591,21 @@
         "date_posted": 1723250881,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723321543,
+        "url": "https://careers.cargill.com/en/job/-/-/23251/68562401376",
+        "company_name": "Cargill",
+        "title": "Associate Software Engineer - Technology Development Program, Summer 2025",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "b72c64d6-98ee-4bb6-b017-e5ec06ca15b1",
+        "date_posted": 1723321543,
+        "company_url": "",
+        "is_visible": true
     }
 ]
