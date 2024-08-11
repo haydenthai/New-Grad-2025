@@ -5607,5 +5607,25 @@
         "date_posted": 1723321543,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723359254,
+        "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/Technology-Development-Program---Software-Engineering_R0051974",
+        "company_name": "Geico",
+        "title": "Technology Development Program - Software Engineering",
+        "locations": [
+            "Chevy Chase, MD",
+            "Virginia Beach, VA",
+            "Poway, CA",
+            "North Liberty, IA",
+            "Katy, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "1f9933b4-3617-4e33-9308-ec8bf4fced76",
+        "date_posted": 1723359254,
+        "company_url": "",
+        "is_visible": true
     }
 ]
