@@ -5659,5 +5659,21 @@
         "date_posted": 1723488089,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723496331,
+        "url": "https://careers.abbvie.com/en/job/2025-bts-early-talent-program-technical-in-north-chicago-il-jid-6454",
+        "company_name": "abbvie",
+        "title": "2025 BTS Early Talent Program - Technical",
+        "locations": [
+            "North Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "4e76b1d3-1129-4d64-954a-f8f3b21d6c23",
+        "date_posted": 1723496331,
+        "company_url": "",
+        "is_visible": true
     }
 ]
