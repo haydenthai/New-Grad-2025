@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **American Express** | Campus Undergraduate- 2025 Enterprise Strategy Full Time Analyst | New York, NY | <a href="https://aexp.eightfold.ai/careers/job/24237140" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 12 |
 | **Geico** | Technology Development Program - Software Engineering 🛂 | <details><summary>**5 locations**</summary>Chevy Chase, MD</br>Virginia Beach, VA</br>Poway, CA</br>North Liberty, IA</br>Katy, TX</details> | <a href="https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/Technology-Development-Program---Software-Engineering_R0051974" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 11 |
 | **Cargill** | Associate Software Engineer - Technology Development Program, Summer 2025 🛂 | Atlanta, GA | <a href="https://careers.cargill.com/en/job/-/-/23251/68562401376" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |
 | **Blackrock** | 2025 Full-Time Analyst Program - AMERS | Americas | <a href="https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-4a4032eced60/candidate/so/pm/1/pl/1/opp/8161-2025-Full-Time-Analyst-Program-AMERS/en-GB" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |
