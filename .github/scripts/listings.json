@@ -5643,5 +5643,21 @@
         "date_posted": 1723487208,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723488089,
+        "url": "https://careers.usbank.com/global/en/job/UBNAGLOBAL20240015883EXTERNALENGLOBAL/2025-Engineering-Rotational-Program",
+        "company_name": "US Bank",
+        "title": "2025 Engineering Rotational Program",
+        "locations": [
+            "Hopkins, MN"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "ac295b2e-2e7b-4cd0-aeb8-e71bf14d6dc1",
+        "date_posted": 1723488089,
+        "company_url": "",
+        "is_visible": true
     }
 ]
