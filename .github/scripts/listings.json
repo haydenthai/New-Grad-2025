@@ -5627,5 +5627,21 @@
         "date_posted": 1723359254,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723487208,
+        "url": "https://aexp.eightfold.ai/careers/job/24237140",
+        "company_name": "American Express",
+        "title": "Campus Undergraduate- 2025 Enterprise Strategy Full Time Analyst",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "181dbfa5-37c8-4632-8ac9-3242fc802d01",
+        "date_posted": 1723487208,
+        "company_url": "",
+        "is_visible": true
     }
 ]
