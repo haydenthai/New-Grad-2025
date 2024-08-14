@@ -5675,5 +5675,21 @@
         "date_posted": 1723496331,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723606058,
+        "url": "https://www.databricks.com/company/careers/university-recruiting/data-scientist---new-grad-2025-start-6866554002",
+        "company_name": "Databricks",
+        "title": "Data Scientist - New Grad (2025 Start)",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "4e6f7461-dae3-49e7-8020-42d41531dcbb",
+        "date_posted": 1723606058,
+        "company_url": "",
+        "is_visible": true
     }
 ]
