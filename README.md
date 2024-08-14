@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **NVIDIA** | Physical Design Engineer - New College Grad 2025 | Westford, MA</br>Westborough, MA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-MA-Westford/Physical-Design-Engineer---New-College-Grad-2025_JR1979789-1" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | **Aquatic** | Quantitative Researcher, Early Career (2025) | Chicago, IL</br>New York, NY | <a href="https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7468705002" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | **Point72** | Point72 Academy Investment Analyst Program for Upcoming Graduates (2025 – US) | Chicago, Florida, New York, San Francisco | <a href="https://job-boards.greenhouse.io/point72/jobs/7431897002" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | **Belvedere** | Quantitative Trader - Entry Level 2025 | Chicago, IL | <a href="https://jobs.lever.co/belvederetrading/69de6697-e9d4-426e-ae22-bad4c6e04cf8/apply" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
