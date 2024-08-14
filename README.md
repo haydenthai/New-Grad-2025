@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Databricks** | Data Scientist - New Grad (2025 Start) | Mountain View, CA | <a href="https://www.databricks.com/company/careers/university-recruiting/data-scientist---new-grad-2025-start-6866554002" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | **abbvie** | 2025 BTS Early Talent Program - Technical | North Chicago, IL | <a href="https://careers.abbvie.com/en/job/2025-bts-early-talent-program-technical-in-north-chicago-il-jid-6454" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 12 |
 | **US Bank** | 2025 Engineering Rotational Program | Hopkins, MN | <a href="https://careers.usbank.com/global/en/job/UBNAGLOBAL20240015883EXTERNALENGLOBAL/2025-Engineering-Rotational-Program" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 12 |
 | **American Express** | Campus Undergraduate- 2025 Enterprise Strategy Full Time Analyst | New York, NY | <a href="https://aexp.eightfold.ai/careers/job/24237140" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 12 |
