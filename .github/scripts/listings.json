@@ -5691,5 +5691,21 @@
         "date_posted": 1723606058,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723609705,
+        "url": "https://jobs.lever.co/belvederetrading/69de6697-e9d4-426e-ae22-bad4c6e04cf8/apply",
+        "company_name": "Belvedere",
+        "title": "Quantitative Trader - Entry Level 2025",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "6a23b770-83db-475e-a388-f626d51e4081",
+        "date_posted": 1723609705,
+        "company_url": "",
+        "is_visible": true
     }
 ]
