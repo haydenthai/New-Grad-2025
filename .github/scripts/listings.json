@@ -5777,5 +5777,25 @@
         "date_posted": 1723660322,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723660548,
+        "url": "https://careers.ibm.com/job/20864776/entry-level-back-end-developer-2025-remote/",
+        "company_name": "IBM",
+        "title": "Entry Level Back End Developer: 2025",
+        "locations": [
+            "Tucson, AZ",
+            "San Jose, CA",
+            "Rochester, NY",
+            "Poughkeepsie, NY",
+            "Research Triangle Park, NC"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "7645456f-8f46-4a5e-b80a-483aab7110ac",
+        "date_posted": 1723660548,
+        "company_url": "",
+        "is_visible": true
     }
 ]
