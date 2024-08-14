@@ -5707,5 +5707,21 @@
         "date_posted": 1723609705,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723609998,
+        "url": "https://job-boards.greenhouse.io/point72/jobs/7431897002",
+        "company_name": "Point72",
+        "title": "Point72 Academy Investment Analyst Program for Upcoming Graduates (2025 \u2013 US)",
+        "locations": [
+            "Chicago, Florida, New York, San Francisco"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "53d47f3b-4f40-4f03-901b-fe8625984fb3",
+        "date_posted": 1723609998,
+        "company_url": "",
+        "is_visible": true
     }
 ]
