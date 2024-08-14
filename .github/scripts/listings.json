@@ -5723,5 +5723,22 @@
         "date_posted": 1723609998,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723610109,
+        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7468705002",
+        "company_name": "Aquatic",
+        "title": "Quantitative Researcher, Early Career (2025)",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "1acc6c28-2d04-4077-b4e8-e109f8b9f653",
+        "date_posted": 1723610109,
+        "company_url": "",
+        "is_visible": true
     }
 ]
