@@ -5797,5 +5797,21 @@
         "date_posted": 1723660548,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723682099,
+        "url": "https://www.linkedin.com/jobs/view/4000100097/",
+        "company_name": "The Trade Desk",
+        "title": "Graduate Software Engineer (2025 Start)",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "201ab0f3-3879-4c88-8b81-43b33c859db2",
+        "date_posted": 1723682099,
+        "company_url": "",
+        "is_visible": true
     }
 ]
