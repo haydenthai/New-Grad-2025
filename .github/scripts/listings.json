@@ -5813,5 +5813,21 @@
         "date_posted": 1723682099,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723683545,
+        "url": "https://www.linkedin.com/jobs/view/4000102069/",
+        "company_name": "The Trade Desk",
+        "title": "Recent Graduate Software Engineer (2025 Start)",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haydenthai",
+        "id": "1716218b-07cd-4624-ba65-14c52411d4b7",
+        "date_posted": 1723683545,
+        "company_url": "",
+        "is_visible": true
     }
 ]
