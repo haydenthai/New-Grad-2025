@@ -5829,5 +5829,21 @@
         "date_posted": 1723683545,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724095106,
+        "url": "https://www.chicagotrading.com/posting?req=4462832005&campus=1",
+        "company_name": "Chicago Trading Company",
+        "title": "2025 Associate Engineer",
+        "locations": [
+            "Chicago, Illinois"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "ajain02",
+        "id": "095c657a-a8be-495f-800c-ec7468a90995",
+        "date_posted": 1724095106,
+        "company_url": "",
+        "is_visible": true
     }
 ]

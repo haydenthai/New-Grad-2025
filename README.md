@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Chicago Trading Company** | 2025 Associate Engineer | Chicago, Illinois | <a href="https://www.chicagotrading.com/posting?req=4462832005&campus=1" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | **The Trade Desk** | Recent Graduate Software Engineer (2025 Start) | Bellevue, WA | <a href="https://www.linkedin.com/jobs/view/4000102069/" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | **The Trade Desk** | Graduate Software Engineer (2025 Start) | San Francisco, CA | <a href="https://www.linkedin.com/jobs/view/4000100097/" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | **IBM** | Entry Level Back End Developer: 2025 | <details><summary>**5 locations**</summary>Tucson, AZ</br>San Jose, CA</br>Rochester, NY</br>Poughkeepsie, NY</br>Research Triangle Park, NC</details> | <a href="https://careers.ibm.com/job/20864776/entry-level-back-end-developer-2025-remote/" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
