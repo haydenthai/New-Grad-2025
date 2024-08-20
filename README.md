@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Figma** | Software Engineer - Early Career (2025) | San Francisco, CA</br>New York, NY | <a href="https://job-boards.greenhouse.io/figma/jobs/5227935004" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | **Chicago Trading Company** | 2025 Associate Engineer | Chicago, Illinois | <a href="https://www.chicagotrading.com/posting?req=4462832005&campus=1" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | **The Trade Desk** | Recent Graduate Software Engineer (2025 Start) | Bellevue, WA | <a href="https://www.linkedin.com/jobs/view/4000102069/" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | **The Trade Desk** | Graduate Software Engineer (2025 Start) | San Francisco, CA | <a href="https://www.linkedin.com/jobs/view/4000100097/" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
