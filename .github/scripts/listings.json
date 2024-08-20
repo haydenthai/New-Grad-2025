@@ -5845,5 +5845,22 @@
         "date_posted": 1724095106,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724175964,
+        "url": "https://job-boards.greenhouse.io/figma/jobs/5227935004",
+        "company_name": "Figma",
+        "title": "Software Engineer - Early Career (2025)",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "DonkeyBoy001",
+        "id": "2f959202-e1d5-45c1-a693-dfa9a51c85f1",
+        "date_posted": 1724175964,
+        "company_url": "",
+        "is_visible": true
     }
 ]
