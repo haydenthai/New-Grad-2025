@@ -5878,5 +5878,21 @@
         "date_posted": 1724190838,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724351182,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1747253/Software-Engineer---Fullstack%2C-Redmond",
+        "company_name": "Microsoft",
+        "title": "Software Engineer - Fullstack, Redmond",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ajain02",
+        "id": "eda1ad75-d21c-42d4-9d23-eb040c76f98e",
+        "date_posted": 1724351182,
+        "company_url": "",
+        "is_visible": true
     }
 ]
