@@ -16,6 +16,7 @@ Connect with other job seekers, share resources, and get support by joining our 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Deutsche Bank** | Deutsche Bank Graduate Program - Technology, Data and Innovation (TDI) - New York 2025 | New York, NY | <a href="https://db.recsolu.com/external/requisitions/Yqt2f29X7hFr8nO6Si_YaQ" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 22 |
 | **Microsoft** | Software Engineer - Fullstack, Redmond | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1747253/Software-Engineer---Fullstack%2C-Redmond" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 22 |
 | **Verkada** | Backend Software Engineer - University Graduate 2025 | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/4471600007" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | **Figma** | Software Engineer - Early Career (2025) | San Francisco, CA</br>New York, NY | <a href="https://job-boards.greenhouse.io/figma/jobs/5227935004" target="_blank"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |

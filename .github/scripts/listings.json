@@ -5894,5 +5894,21 @@
         "date_posted": 1724351182,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724351304,
+        "url": "https://db.recsolu.com/external/requisitions/Yqt2f29X7hFr8nO6Si_YaQ",
+        "company_name": "Deutsche Bank",
+        "title": "Deutsche Bank Graduate Program - Technology, Data and Innovation (TDI) - New York 2025",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "ajain02",
+        "id": "9e9d3161-908c-4f9d-bcfb-2a2c3c2ce84d",
+        "date_posted": 1724351304,
+        "company_url": "",
+        "is_visible": true
     }
 ]
